@@ -29,7 +29,7 @@ This project showcases an end-to-end data analysis pipeline, from raw shopping t
   - https://app.powerbi.com/links/yBxXZge6c4?ctid=7fa6b698-99fb-4ef6-81ba-067ba38bd389&pbi_source=linkShare
 
 ## 🧠 What I Learned
-- Connecting Python to SQL databases
+- Connecting Python and Power BI to SQL databases
 - Performing EDA and feature engineering
 - Building business dashboards with Power BI
 - Drawing actionable insights from customer data
